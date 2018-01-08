@@ -5,10 +5,10 @@ Contains gaze data from participants with and without autism completing web sear
 
 2. The folder "Gaze Data" contains the following information: 
 
-  i) "Gaze data for both groups for the Search task with Generic AOIs" 
-  ii) "Gaze data for both groups for the Browse task with Generic AOIs"
-  iii) "Gaze data for both groups for the Search task with Page-specific AOIs"
-  iv) "Gaze data for both groups for the Browse task with Page Specific AOIs"
+  1) "Gaze data for both groups for the Search task with Generic AOIs" 
+  2) "Gaze data for both groups for the Browse task with Generic AOIs"
+  3) "Gaze data for both groups for the Search task with Page-specific AOIs"
+  4) "Gaze data for both groups for the Browse task with Page Specific AOIs"
   
 Note: The files containing the gaze data for the Page-specific AOIs have an additional column entitles Class. It contains the labels for the participant group (ASD or Control). In the Generic AOIs files this column is missing. Instead, the group labels are given in the User Name columns together with the participant initials as ASD or Control.
 
