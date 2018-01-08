@@ -1,6 +1,8 @@
 # Gaze-Data-from-Web-Searching-Tasks
 Contains gaze data from participants with and without autism completing web searching tasks
 
+The file Webtask_github contains the code used in our experiments.
+
 The folder Gaze Data contains the following information: 
 
 1) "Gaze data for both groups for the Search task with Generic AOIs"
