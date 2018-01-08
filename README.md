@@ -5,8 +5,8 @@ Contains gaze data from participants with and without autism completing web sear
 
 2. The folder "Gaze Data" contains the following information: 
 
-  a) "Gaze data for both groups for the Search task with Generic AOIs" 
-  b) "Gaze data for both groups for the Browse task with Generic AOIs"
+  1) "Gaze data for both groups for the Search task with Generic AOIs" 
+  2) "Gaze data for both groups for the Browse task with Generic AOIs"
   c) "Gaze data for both groups for the Search task with Page-specific AOIs"
   d) "Gaze data for both groups for the Browse task with Page Specific AOIs"
   
