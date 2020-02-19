@@ -19,3 +19,5 @@ IV. The file "All Permutations" contains the accuracy results and 95% CI for all
 V. The folder "Web Pages" contains screenshots of the 6 web pages used in the study.
 
 VI. The folder "Questionnaires and Consent Form" contains the consent form that each participant signed and two questionnaires. One of these questionnaires assesses the overall experience the participants have with using the web and the other one assesses their familiarity with the particular websites that the web pages are from.
+
+VII. The file Appendix contains the appendix to the main article
