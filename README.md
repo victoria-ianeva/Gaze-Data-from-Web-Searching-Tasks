@@ -1,6 +1,15 @@
 # Gaze-Data-from-Web-Searching-Tasks
 Contains gaze data from participants with and without autism completing web searching tasks
 
+For using this data please cite: Yaneva, V., Ha, L.A., Eraslan, S., Yesilada, Y., and Mitkov, R. 2018. Detecting Autism Based on Eye-Tracking Data from Web Searching Tasks. Proceedings of the 18th Web for All Conference on The Internet of Accessible Things, W4A 2018, Lyon, France, 23-25 April, 2018.
+
+@inproceedings{yaneva2018detecting,
+  title={Detecting autism based on eye-tracking data from web searching tasks},
+  author={Yaneva, Victoria and Ha, Le An and Eraslan, Sukru and Yesilada, Yeliz and Mitkov, Ruslan},
+  booktitle={Proceedings of the 15th International Web for All Conference},
+  pages={1--10},
+  year={2018}
+
 I. The file "Webtask_github" contains the code used in our experiments.
 
 II. The folder "Gaze Data" contains the following information: 
