@@ -11,6 +11,7 @@ For using this data please cite: Yaneva, V., Ha, L.A., Eraslan, S., Yesilada, Y.
   year={2018}
 
 I. The file "Webtask_github" contains the code used in our experiments.
+This code runs with the files "Web_browse_all" and "Web_search_all", which can be found in the folder "Gaze Data" 
 
 II. The folder "Gaze Data" contains the following information: 
 
