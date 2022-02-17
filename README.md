@@ -18,6 +18,8 @@ II. The folder "Gaze Data" contains the following information:
   2) "Gaze data for both groups for the Browse task with Generic AOIs"
   3) "Gaze data for both groups for the Search task with Page-specific AOIs"
   4) "Gaze data for both groups for the Browse task with Page Specific AOIs"
+  5) "Web_browse_all" - preprocessed data for the Browse task that can be used directly in the provided R code
+  6) "Web_search_all" - preprocessed data for the Search task that can be used directly in the provided R code
   
 Note: The files containing the gaze data for the Page-specific AOIs have an additional column entitles Class. It contains the labels for the participant group (ASD or Control). In the Generic AOIs files this column is missing. Instead, the group labels are given in the User Name columns together with the participant initials as ASD or Control.
 
