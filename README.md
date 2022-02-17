@@ -32,7 +32,8 @@ VI. The folder "Questionnaires and Consent Form" contains the consent form that 
 VII. The file Appendix contains the appendix to the main article
 
 
-UPDATE:
+**UPDATE:**
+
 New files added for a second study for the paper: Yaneva, V., Eraslan, S., Yesilada, Y. and Mitkov, R., 2020. Detecting high-functioning autism in adults using eye tracking and machine learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(6), pp.1254-1261.
 
 The folder "Gaze Data Study 2" contains gaze data from another browse task (time limited to 30 seconds) and a synthesis task (details described in the paper). Some of the participants over lat with those in Study 1. 
