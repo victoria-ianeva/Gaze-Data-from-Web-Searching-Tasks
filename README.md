@@ -1,5 +1,5 @@
 # Gaze-Data-from-Web-Searching-Tasks
-Contains gaze data from participants with and without autism completing web searching tasks
+Contains gaze data from participants with and without autism completing web searching tasks (see Update at the bottom of the page fo rnew data)
 
 For using this data please cite: Yaneva, V., Ha, L.A., Eraslan, S., Yesilada, Y., and Mitkov, R. 2018. Detecting Autism Based on Eye-Tracking Data from Web Searching Tasks. Proceedings of the 18th Web for All Conference on The Internet of Accessible Things, W4A 2018, Lyon, France, 23-25 April, 2018.
 
@@ -36,8 +36,21 @@ VII. The file Appendix contains the appendix to the main article
 
 **UPDATE:**
 
-New files added for a second study for the paper: Yaneva, V., Eraslan, S., Yesilada, Y. and Mitkov, R., 2020. Detecting high-functioning autism in adults using eye tracking and machine learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(6), pp.1254-1261.
+New files added for a follow up study. The folder "Gaze Data Study 2" contains gaze data from another browse task (time limited to 30 seconds) and a synthesis task. Some of the participants overlap with those in Study 1. More details about this study and the data can be found in:
 
-The folder "Gaze Data Study 2" contains gaze data from another browse task (time limited to 30 seconds) and a synthesis task (details described in the paper). Some of the participants over lat with those in Study 1. 
+Yaneva, V., Eraslan, S., Yesilada, Y. and Mitkov, R., 2020. Detecting high-functioning autism in adults using eye tracking and machine learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(6), pp.1254-1261.
+
+@article{yaneva2020detecting,
+  title={Detecting high-functioning autism in adults using eye tracking and machine learning},
+  author={Yaneva, Victoria and Eraslan, Sukru and Yesilada, Yeliz and Mitkov, Ruslan and others},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  volume={28},
+  number={6},
+  pages={1254--1261},
+  year={2020},
+  publisher={IEEE}
+}
+
+
 
 
